@@ -1,16 +1,22 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<div align="center">
+<p>Kullandığım Araçlar:</p>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />
+<br/><br/><br/>
+</div>
 
-<!--
-**tuleymanb/tuleymanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div align="center">
+  <p>İletişim adreslerim:</p>
+<a href="https://discord.com/users/180731688844787712" target="_blank"><img src="https://img.shields.io/badge/discord-r89DA.svg?&color=7289da&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.instagram.com/mekansahibiyimbuyur/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCPpVNTNmvRo2nHeFS1HNhTg/featured" target="_blank"><img src="https://img.shields.io/badge/youtube-r89DA.svg?&color=ff0000&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<br/><br/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="right">
+<img src="https://profile-counter.glitch.me/{tuleymanb}/count.svg" /> 
+<br/> 
+</html>
